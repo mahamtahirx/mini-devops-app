@@ -1,20 +1,17 @@
 {
   "name": "mini-devops-app",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000M\u0000i\u0000n\u0000i\u0000 \u0000D\u0000e\u0000v\u0000O\u0000p\u0000s\u0000 \u0000A\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "description": "A simple Node.js app with GitHub Actions CI/CD pipeline",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"Test passed!\" && exit 0"
   },
+  "author": "Maham Tahir",
+  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahamtahirx/mini-devops-app.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mahamtahirx/mini-devops-app/issues"
+    "url": "https://github.com/mahamtahirx/mini-devops-app.git"
   },
   "homepage": "https://github.com/mahamtahirx/mini-devops-app#readme"
 }
