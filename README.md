@@ -24,7 +24,7 @@ mini-devops-app/
 1. Clone the repository
 git clone https://github.com/mahamtahirx/mini-devops-app.git
 
-    cd mini-devops-app
+   cd mini-devops-app
 
 3. Install dependencies
    
@@ -41,11 +41,11 @@ git clone https://github.com/mahamtahirx/mini-devops-app.git
 By default, the app runs at:
 🌐 http://localhost:3000. 
 If everything works, the terminal will say:
-
    "Test passed!"
 
 💡 Why this project?
 This mini app is part of my DevOps learning journey — understanding the essential role Git, GitHub, and automation pipelines play in modern software development. A small step, but a strong foundation toward mastering CI/CD.
+
 
 
 
