@@ -23,15 +23,17 @@ mini-devops-app/
 
 1. Clone the repository
 git clone https://github.com/mahamtahirx/mini-devops-app.git
+
 cd mini-devops-app
 
-2. Install dependencies
+3. Install dependencies
+   
 npm install
 
-3. Start the application
+5. Start the application
 npm start
 
-4. Run tests
+6. Run tests
 npm test
 
 By default, the app runs at:
@@ -41,6 +43,7 @@ If everything works, the terminal will say:
 
 💡 Why this project?
 This mini app is part of my DevOps learning journey — understanding the essential role Git, GitHub, and automation pipelines play in modern software development. A small step, but a strong foundation toward mastering CI/CD.
+
 
 
 
